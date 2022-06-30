@@ -130,8 +130,8 @@
                                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="O5M-Z3-5WL">
                                                                 <rect key="frame" x="177.66666666666663" y="0.0" width="157.33333333333337" height="160"/>
                                                                 <subviews>
-                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="배달" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="86T-7F-xtN">
-                                                                        <rect key="frame" x="14.999999999999996" y="15" width="42.666666666666657" height="24"/>
+                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="배달" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="86T-7F-xtN">
+                                                                        <rect key="frame" x="15" y="15" width="65" height="28"/>
                                                                         <fontDescription key="fontDescription" name="BMHANNA11yrsoldOTF" family="BM HANNA 11yrs old OTF" pointSize="24"/>
                                                                         <nil key="textColor"/>
                                                                         <nil key="highlightedColor"/>

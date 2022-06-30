@@ -13,22 +13,22 @@
 		F67921E1286CAECF003B07E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F67921DF286CAECF003B07E6 /* Main.storyboard */; };
 		F67921E3286CAED4003B07E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F67921E2286CAED4003B07E6 /* Assets.xcassets */; };
 		F67921E6286CAED4003B07E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F67921E4286CAED4003B07E6 /* LaunchScreen.storyboard */; };
-		F6792219286CC08E003B07E6 /* BMYEONSUNG_otf.otf in Resources */ = {isa = PBXBuildFile; fileRef = F679220F286CC08D003B07E6 /* BMYEONSUNG_otf.otf */; };
-		F679221A286CC08E003B07E6 /* BMEuljirooraeoraeOTF.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6792210286CC08D003B07E6 /* BMEuljirooraeoraeOTF.otf */; };
-		F679221B286CC08E003B07E6 /* BMJUA_otf.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6792211286CC08D003B07E6 /* BMJUA_otf.otf */; };
-		F679221C286CC08E003B07E6 /* BMHANNAAir_otf.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6792212286CC08D003B07E6 /* BMHANNAAir_otf.otf */; };
-		F679221D286CC08E003B07E6 /* BMHANNAProOTF.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6792213286CC08D003B07E6 /* BMHANNAProOTF.otf */; };
-		F679221E286CC08E003B07E6 /* BMEuljiro10yearslaterOTF.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6792214286CC08D003B07E6 /* BMEuljiro10yearslaterOTF.otf */; };
-		F679221F286CC08E003B07E6 /* BMKIRANGHAERANG-OTF.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6792215286CC08D003B07E6 /* BMKIRANGHAERANG-OTF.otf */; };
-		F6792220286CC08E003B07E6 /* BMDOHYEON_otf.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6792216286CC08D003B07E6 /* BMDOHYEON_otf.otf */; };
-		F6792221286CC08E003B07E6 /* BMEULJIRO.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6792217286CC08D003B07E6 /* BMEULJIRO.otf */; };
-		F6792222286CC08E003B07E6 /* BMHANNA_11yrs_otf.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6792218286CC08E003B07E6 /* BMHANNA_11yrs_otf.otf */; };
+		F6BC1639286E132B007B3926 /* BMJUA_otf.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6BC162F286E132A007B3926 /* BMJUA_otf.otf */; };
+		F6BC163A286E132B007B3926 /* BMKIRANGHAERANG-OTF.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6BC1630286E132A007B3926 /* BMKIRANGHAERANG-OTF.otf */; };
+		F6BC163B286E132B007B3926 /* BMEULJIRO.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6BC1631286E132A007B3926 /* BMEULJIRO.otf */; };
+		F6BC163C286E132B007B3926 /* BMEuljiro10yearslaterOTF.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6BC1632286E132A007B3926 /* BMEuljiro10yearslaterOTF.otf */; };
+		F6BC163D286E132B007B3926 /* BMDOHYEON_otf.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6BC1633286E132A007B3926 /* BMDOHYEON_otf.otf */; };
+		F6BC163E286E132B007B3926 /* BMHANNAAir_otf.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6BC1634286E132B007B3926 /* BMHANNAAir_otf.otf */; };
+		F6BC163F286E132B007B3926 /* BMYEONSUNG_otf.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6BC1635286E132B007B3926 /* BMYEONSUNG_otf.otf */; };
+		F6BC1640286E132B007B3926 /* BMHANNA_11yrs_otf.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6BC1636286E132B007B3926 /* BMHANNA_11yrs_otf.otf */; };
+		F6BC1641286E132B007B3926 /* BMEuljirooraeoraeOTF.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6BC1637286E132B007B3926 /* BMEuljirooraeoraeOTF.otf */; };
+		F6BC1642286E132B007B3926 /* BMHANNAProOTF.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6BC1638286E132B007B3926 /* BMHANNAProOTF.otf */; };
+		F6BC1645286E1350007B3926 /* 할인1.png in Resources */ = {isa = PBXBuildFile; fileRef = F6BC1643286E134F007B3926 /* 할인1.png */; };
+		F6BC1646286E1350007B3926 /* 도미노피자.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F6BC1644286E134F007B3926 /* 도미노피자.jpeg */; };
 		F6FBAB09286DEE06007145B7 /* 엽기떡볶이.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F6FBAB08286DEE06007145B7 /* 엽기떡볶이.jpeg */; };
 		F6FBAB12286DF157007145B7 /* 배민1_로고_모니터(RGB)_2화이트.png in Resources */ = {isa = PBXBuildFile; fileRef = F6FBAB10286DF157007145B7 /* 배민1_로고_모니터(RGB)_2화이트.png */; };
 		F6FBAB13286DF157007145B7 /* 배민1_로고_모니터(RGB)_1민트.png in Resources */ = {isa = PBXBuildFile; fileRef = F6FBAB11286DF157007145B7 /* 배민1_로고_모니터(RGB)_1민트.png */; };
 		F6FBAB1F286DF504007145B7 /* 스몰_배민1_로고_모니터(RGB)_1민트).png in Resources */ = {isa = PBXBuildFile; fileRef = F6FBAB1E286DF504007145B7 /* 스몰_배민1_로고_모니터(RGB)_1민트).png */; };
-		F6FBAB27286E0BEA007145B7 /* 할인1.png in Resources */ = {isa = PBXBuildFile; fileRef = F6FBAB26286E0BEA007145B7 /* 할인1.png */; };
-		F6FBAB29286E0BEE007145B7 /* 도미노피자.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F6FBAB28286E0BEE007145B7 /* 도미노피자.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,22 +40,22 @@
 		F67921E2286CAED4003B07E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F67921E5286CAED4003B07E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F67921E7286CAED4003B07E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F679220F286CC08D003B07E6 /* BMYEONSUNG_otf.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMYEONSUNG_otf.otf; path = ../../../../Downloads/fonts/otf/BMYEONSUNG_otf.otf; sourceTree = "<group>"; };
-		F6792210286CC08D003B07E6 /* BMEuljirooraeoraeOTF.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMEuljirooraeoraeOTF.otf; path = ../../../../Downloads/fonts/otf/BMEuljirooraeoraeOTF.otf; sourceTree = "<group>"; };
-		F6792211286CC08D003B07E6 /* BMJUA_otf.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMJUA_otf.otf; path = ../../../../Downloads/fonts/otf/BMJUA_otf.otf; sourceTree = "<group>"; };
-		F6792212286CC08D003B07E6 /* BMHANNAAir_otf.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMHANNAAir_otf.otf; path = ../../../../Downloads/fonts/otf/BMHANNAAir_otf.otf; sourceTree = "<group>"; };
-		F6792213286CC08D003B07E6 /* BMHANNAProOTF.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMHANNAProOTF.otf; path = ../../../../Downloads/fonts/otf/BMHANNAProOTF.otf; sourceTree = "<group>"; };
-		F6792214286CC08D003B07E6 /* BMEuljiro10yearslaterOTF.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMEuljiro10yearslaterOTF.otf; path = ../../../../Downloads/fonts/otf/BMEuljiro10yearslaterOTF.otf; sourceTree = "<group>"; };
-		F6792215286CC08D003B07E6 /* BMKIRANGHAERANG-OTF.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "BMKIRANGHAERANG-OTF.otf"; path = "../../../../Downloads/fonts/otf/BMKIRANGHAERANG-OTF.otf"; sourceTree = "<group>"; };
-		F6792216286CC08D003B07E6 /* BMDOHYEON_otf.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMDOHYEON_otf.otf; path = ../../../../Downloads/fonts/otf/BMDOHYEON_otf.otf; sourceTree = "<group>"; };
-		F6792217286CC08D003B07E6 /* BMEULJIRO.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMEULJIRO.otf; path = ../../../../Downloads/fonts/otf/BMEULJIRO.otf; sourceTree = "<group>"; };
-		F6792218286CC08E003B07E6 /* BMHANNA_11yrs_otf.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMHANNA_11yrs_otf.otf; path = ../../../../Downloads/fonts/otf/BMHANNA_11yrs_otf.otf; sourceTree = "<group>"; };
+		F6BC162F286E132A007B3926 /* BMJUA_otf.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMJUA_otf.otf; path = "../../../../Desktop/케이스스터디/1주차/배달의민족/baemin_font/BMJUA_otf.otf"; sourceTree = "<group>"; };
+		F6BC1630286E132A007B3926 /* BMKIRANGHAERANG-OTF.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "BMKIRANGHAERANG-OTF.otf"; path = "../../../../Desktop/케이스스터디/1주차/배달의민족/baemin_font/BMKIRANGHAERANG-OTF.otf"; sourceTree = "<group>"; };
+		F6BC1631286E132A007B3926 /* BMEULJIRO.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMEULJIRO.otf; path = "../../../../Desktop/케이스스터디/1주차/배달의민족/baemin_font/BMEULJIRO.otf"; sourceTree = "<group>"; };
+		F6BC1632286E132A007B3926 /* BMEuljiro10yearslaterOTF.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMEuljiro10yearslaterOTF.otf; path = "../../../../Desktop/케이스스터디/1주차/배달의민족/baemin_font/BMEuljiro10yearslaterOTF.otf"; sourceTree = "<group>"; };
+		F6BC1633286E132A007B3926 /* BMDOHYEON_otf.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMDOHYEON_otf.otf; path = "../../../../Desktop/케이스스터디/1주차/배달의민족/baemin_font/BMDOHYEON_otf.otf"; sourceTree = "<group>"; };
+		F6BC1634286E132B007B3926 /* BMHANNAAir_otf.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMHANNAAir_otf.otf; path = "../../../../Desktop/케이스스터디/1주차/배달의민족/baemin_font/BMHANNAAir_otf.otf"; sourceTree = "<group>"; };
+		F6BC1635286E132B007B3926 /* BMYEONSUNG_otf.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMYEONSUNG_otf.otf; path = "../../../../Desktop/케이스스터디/1주차/배달의민족/baemin_font/BMYEONSUNG_otf.otf"; sourceTree = "<group>"; };
+		F6BC1636286E132B007B3926 /* BMHANNA_11yrs_otf.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMHANNA_11yrs_otf.otf; path = "../../../../Desktop/케이스스터디/1주차/배달의민족/baemin_font/BMHANNA_11yrs_otf.otf"; sourceTree = "<group>"; };
+		F6BC1637286E132B007B3926 /* BMEuljirooraeoraeOTF.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMEuljirooraeoraeOTF.otf; path = "../../../../Desktop/케이스스터디/1주차/배달의민족/baemin_font/BMEuljirooraeoraeOTF.otf"; sourceTree = "<group>"; };
+		F6BC1638286E132B007B3926 /* BMHANNAProOTF.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMHANNAProOTF.otf; path = "../../../../Desktop/케이스스터디/1주차/배달의민족/baemin_font/BMHANNAProOTF.otf"; sourceTree = "<group>"; };
+		F6BC1643286E134F007B3926 /* 할인1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "할인1.png"; path = "../../../../Desktop/케이스스터디/1주차/배달의민족/할인1.png"; sourceTree = "<group>"; };
+		F6BC1644286E134F007B3926 /* 도미노피자.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "도미노피자.jpeg"; path = "../../../../Desktop/케이스스터디/1주차/배달의민족/도미노피자.jpeg"; sourceTree = "<group>"; };
 		F6FBAB08286DEE06007145B7 /* 엽기떡볶이.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "엽기떡볶이.jpeg"; sourceTree = "<group>"; };
 		F6FBAB10286DF157007145B7 /* 배민1_로고_모니터(RGB)_2화이트.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "배민1_로고_모니터(RGB)_2화이트.png"; sourceTree = "<group>"; };
 		F6FBAB11286DF157007145B7 /* 배민1_로고_모니터(RGB)_1민트.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "배민1_로고_모니터(RGB)_1민트.png"; sourceTree = "<group>"; };
 		F6FBAB1E286DF504007145B7 /* 스몰_배민1_로고_모니터(RGB)_1민트).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스몰_배민1_로고_모니터(RGB)_1민트).png"; sourceTree = "<group>"; };
-		F6FBAB26286E0BEA007145B7 /* 할인1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "할인1.png"; path = "../../../../Desktop/케이스스터디/1주차/과제/할인1.png"; sourceTree = "<group>"; };
-		F6FBAB28286E0BEE007145B7 /* 도미노피자.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "도미노피자.jpeg"; path = "../../../../Desktop/케이스스터디/1주차/과제/도미노피자.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,16 +105,16 @@
 		F6792203286CBFE5003B07E6 /* Font */ = {
 			isa = PBXGroup;
 			children = (
-				F6792216286CC08D003B07E6 /* BMDOHYEON_otf.otf */,
-				F6792217286CC08D003B07E6 /* BMEULJIRO.otf */,
-				F6792214286CC08D003B07E6 /* BMEuljiro10yearslaterOTF.otf */,
-				F6792210286CC08D003B07E6 /* BMEuljirooraeoraeOTF.otf */,
-				F6792218286CC08E003B07E6 /* BMHANNA_11yrs_otf.otf */,
-				F6792212286CC08D003B07E6 /* BMHANNAAir_otf.otf */,
-				F6792213286CC08D003B07E6 /* BMHANNAProOTF.otf */,
-				F6792211286CC08D003B07E6 /* BMJUA_otf.otf */,
-				F6792215286CC08D003B07E6 /* BMKIRANGHAERANG-OTF.otf */,
-				F679220F286CC08D003B07E6 /* BMYEONSUNG_otf.otf */,
+				F6BC1633286E132A007B3926 /* BMDOHYEON_otf.otf */,
+				F6BC1631286E132A007B3926 /* BMEULJIRO.otf */,
+				F6BC1632286E132A007B3926 /* BMEuljiro10yearslaterOTF.otf */,
+				F6BC1637286E132B007B3926 /* BMEuljirooraeoraeOTF.otf */,
+				F6BC1636286E132B007B3926 /* BMHANNA_11yrs_otf.otf */,
+				F6BC1634286E132B007B3926 /* BMHANNAAir_otf.otf */,
+				F6BC1638286E132B007B3926 /* BMHANNAProOTF.otf */,
+				F6BC162F286E132A007B3926 /* BMJUA_otf.otf */,
+				F6BC1630286E132A007B3926 /* BMKIRANGHAERANG-OTF.otf */,
+				F6BC1635286E132B007B3926 /* BMYEONSUNG_otf.otf */,
 			);
 			path = Font;
 			sourceTree = "<group>";
@@ -122,9 +122,9 @@
 		F6FBAB0A286DEE27007145B7 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				F6BC1644286E134F007B3926 /* 도미노피자.jpeg */,
+				F6BC1643286E134F007B3926 /* 할인1.png */,
 				F6FBAB08286DEE06007145B7 /* 엽기떡볶이.jpeg */,
-				F6FBAB28286E0BEE007145B7 /* 도미노피자.jpeg */,
-				F6FBAB26286E0BEA007145B7 /* 할인1.png */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -197,25 +197,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F6792219286CC08E003B07E6 /* BMYEONSUNG_otf.otf in Resources */,
 				F6FBAB13286DF157007145B7 /* 배민1_로고_모니터(RGB)_1민트.png in Resources */,
+				F6BC163B286E132B007B3926 /* BMEULJIRO.otf in Resources */,
+				F6BC163C286E132B007B3926 /* BMEuljiro10yearslaterOTF.otf in Resources */,
 				F6FBAB1F286DF504007145B7 /* 스몰_배민1_로고_모니터(RGB)_1민트).png in Resources */,
-				F6792221286CC08E003B07E6 /* BMEULJIRO.otf in Resources */,
-				F679221B286CC08E003B07E6 /* BMJUA_otf.otf in Resources */,
-				F679221A286CC08E003B07E6 /* BMEuljirooraeoraeOTF.otf in Resources */,
+				F6BC163E286E132B007B3926 /* BMHANNAAir_otf.otf in Resources */,
 				F67921E6286CAED4003B07E6 /* LaunchScreen.storyboard in Resources */,
-				F6FBAB27286E0BEA007145B7 /* 할인1.png in Resources */,
+				F6BC1646286E1350007B3926 /* 도미노피자.jpeg in Resources */,
+				F6BC163D286E132B007B3926 /* BMDOHYEON_otf.otf in Resources */,
+				F6BC1641286E132B007B3926 /* BMEuljirooraeoraeOTF.otf in Resources */,
+				F6BC163F286E132B007B3926 /* BMYEONSUNG_otf.otf in Resources */,
 				F6FBAB09286DEE06007145B7 /* 엽기떡볶이.jpeg in Resources */,
-				F6792220286CC08E003B07E6 /* BMDOHYEON_otf.otf in Resources */,
+				F6BC163A286E132B007B3926 /* BMKIRANGHAERANG-OTF.otf in Resources */,
 				F6FBAB12286DF157007145B7 /* 배민1_로고_모니터(RGB)_2화이트.png in Resources */,
+				F6BC1642286E132B007B3926 /* BMHANNAProOTF.otf in Resources */,
 				F67921E3286CAED4003B07E6 /* Assets.xcassets in Resources */,
-				F679221E286CC08E003B07E6 /* BMEuljiro10yearslaterOTF.otf in Resources */,
+				F6BC1640286E132B007B3926 /* BMHANNA_11yrs_otf.otf in Resources */,
 				F67921E1286CAECF003B07E6 /* Main.storyboard in Resources */,
-				F679221C286CC08E003B07E6 /* BMHANNAAir_otf.otf in Resources */,
-				F679221D286CC08E003B07E6 /* BMHANNAProOTF.otf in Resources */,
-				F6792222286CC08E003B07E6 /* BMHANNA_11yrs_otf.otf in Resources */,
-				F679221F286CC08E003B07E6 /* BMKIRANGHAERANG-OTF.otf in Resources */,
-				F6FBAB29286E0BEE007145B7 /* 도미노피자.jpeg in Resources */,
+				F6BC1645286E1350007B3926 /* 할인1.png in Resources */,
+				F6BC1639286E132B007B3926 /* BMJUA_otf.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
