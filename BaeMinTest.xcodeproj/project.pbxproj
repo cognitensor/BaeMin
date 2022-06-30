@@ -23,6 +23,12 @@
 		F6792220286CC08E003B07E6 /* BMDOHYEON_otf.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6792216286CC08D003B07E6 /* BMDOHYEON_otf.otf */; };
 		F6792221286CC08E003B07E6 /* BMEULJIRO.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6792217286CC08D003B07E6 /* BMEULJIRO.otf */; };
 		F6792222286CC08E003B07E6 /* BMHANNA_11yrs_otf.otf in Resources */ = {isa = PBXBuildFile; fileRef = F6792218286CC08E003B07E6 /* BMHANNA_11yrs_otf.otf */; };
+		F6FBAB09286DEE06007145B7 /* 엽기떡볶이.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F6FBAB08286DEE06007145B7 /* 엽기떡볶이.jpeg */; };
+		F6FBAB12286DF157007145B7 /* 배민1_로고_모니터(RGB)_2화이트.png in Resources */ = {isa = PBXBuildFile; fileRef = F6FBAB10286DF157007145B7 /* 배민1_로고_모니터(RGB)_2화이트.png */; };
+		F6FBAB13286DF157007145B7 /* 배민1_로고_모니터(RGB)_1민트.png in Resources */ = {isa = PBXBuildFile; fileRef = F6FBAB11286DF157007145B7 /* 배민1_로고_모니터(RGB)_1민트.png */; };
+		F6FBAB1F286DF504007145B7 /* 스몰_배민1_로고_모니터(RGB)_1민트).png in Resources */ = {isa = PBXBuildFile; fileRef = F6FBAB1E286DF504007145B7 /* 스몰_배민1_로고_모니터(RGB)_1민트).png */; };
+		F6FBAB27286E0BEA007145B7 /* 할인1.png in Resources */ = {isa = PBXBuildFile; fileRef = F6FBAB26286E0BEA007145B7 /* 할인1.png */; };
+		F6FBAB29286E0BEE007145B7 /* 도미노피자.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F6FBAB28286E0BEE007145B7 /* 도미노피자.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +50,12 @@
 		F6792216286CC08D003B07E6 /* BMDOHYEON_otf.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMDOHYEON_otf.otf; path = ../../../../Downloads/fonts/otf/BMDOHYEON_otf.otf; sourceTree = "<group>"; };
 		F6792217286CC08D003B07E6 /* BMEULJIRO.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMEULJIRO.otf; path = ../../../../Downloads/fonts/otf/BMEULJIRO.otf; sourceTree = "<group>"; };
 		F6792218286CC08E003B07E6 /* BMHANNA_11yrs_otf.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BMHANNA_11yrs_otf.otf; path = ../../../../Downloads/fonts/otf/BMHANNA_11yrs_otf.otf; sourceTree = "<group>"; };
+		F6FBAB08286DEE06007145B7 /* 엽기떡볶이.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "엽기떡볶이.jpeg"; sourceTree = "<group>"; };
+		F6FBAB10286DF157007145B7 /* 배민1_로고_모니터(RGB)_2화이트.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "배민1_로고_모니터(RGB)_2화이트.png"; sourceTree = "<group>"; };
+		F6FBAB11286DF157007145B7 /* 배민1_로고_모니터(RGB)_1민트.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "배민1_로고_모니터(RGB)_1민트.png"; sourceTree = "<group>"; };
+		F6FBAB1E286DF504007145B7 /* 스몰_배민1_로고_모니터(RGB)_1민트).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스몰_배민1_로고_모니터(RGB)_1민트).png"; sourceTree = "<group>"; };
+		F6FBAB26286E0BEA007145B7 /* 할인1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "할인1.png"; path = "../../../../Desktop/케이스스터디/1주차/과제/할인1.png"; sourceTree = "<group>"; };
+		F6FBAB28286E0BEE007145B7 /* 도미노피자.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "도미노피자.jpeg"; path = "../../../../Desktop/케이스스터디/1주차/과제/도미노피자.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +95,8 @@
 				F67921E2286CAED4003B07E6 /* Assets.xcassets */,
 				F67921E4286CAED4003B07E6 /* LaunchScreen.storyboard */,
 				F67921E7286CAED4003B07E6 /* Info.plist */,
+				F6FBAB0F286DF146007145B7 /* Images_Logo */,
+				F6FBAB0A286DEE27007145B7 /* Images */,
 				F6792203286CBFE5003B07E6 /* Font */,
 			);
 			path = BaeMinTest;
@@ -103,6 +117,26 @@
 				F679220F286CC08D003B07E6 /* BMYEONSUNG_otf.otf */,
 			);
 			path = Font;
+			sourceTree = "<group>";
+		};
+		F6FBAB0A286DEE27007145B7 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				F6FBAB08286DEE06007145B7 /* 엽기떡볶이.jpeg */,
+				F6FBAB28286E0BEE007145B7 /* 도미노피자.jpeg */,
+				F6FBAB26286E0BEA007145B7 /* 할인1.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		F6FBAB0F286DF146007145B7 /* Images_Logo */ = {
+			isa = PBXGroup;
+			children = (
+				F6FBAB11286DF157007145B7 /* 배민1_로고_모니터(RGB)_1민트.png */,
+				F6FBAB1E286DF504007145B7 /* 스몰_배민1_로고_모니터(RGB)_1민트).png */,
+				F6FBAB10286DF157007145B7 /* 배민1_로고_모니터(RGB)_2화이트.png */,
+			);
+			path = Images_Logo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -164,11 +198,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				F6792219286CC08E003B07E6 /* BMYEONSUNG_otf.otf in Resources */,
+				F6FBAB13286DF157007145B7 /* 배민1_로고_모니터(RGB)_1민트.png in Resources */,
+				F6FBAB1F286DF504007145B7 /* 스몰_배민1_로고_모니터(RGB)_1민트).png in Resources */,
 				F6792221286CC08E003B07E6 /* BMEULJIRO.otf in Resources */,
 				F679221B286CC08E003B07E6 /* BMJUA_otf.otf in Resources */,
 				F679221A286CC08E003B07E6 /* BMEuljirooraeoraeOTF.otf in Resources */,
 				F67921E6286CAED4003B07E6 /* LaunchScreen.storyboard in Resources */,
+				F6FBAB27286E0BEA007145B7 /* 할인1.png in Resources */,
+				F6FBAB09286DEE06007145B7 /* 엽기떡볶이.jpeg in Resources */,
 				F6792220286CC08E003B07E6 /* BMDOHYEON_otf.otf in Resources */,
+				F6FBAB12286DF157007145B7 /* 배민1_로고_모니터(RGB)_2화이트.png in Resources */,
 				F67921E3286CAED4003B07E6 /* Assets.xcassets in Resources */,
 				F679221E286CC08E003B07E6 /* BMEuljiro10yearslaterOTF.otf in Resources */,
 				F67921E1286CAECF003B07E6 /* Main.storyboard in Resources */,
@@ -176,6 +215,7 @@
 				F679221D286CC08E003B07E6 /* BMHANNAProOTF.otf in Resources */,
 				F6792222286CC08E003B07E6 /* BMHANNA_11yrs_otf.otf in Resources */,
 				F679221F286CC08E003B07E6 /* BMKIRANGHAERANG-OTF.otf in Resources */,
+				F6FBAB29286E0BEE007145B7 /* 도미노피자.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
