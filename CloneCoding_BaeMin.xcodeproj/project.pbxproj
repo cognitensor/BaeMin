@@ -26,7 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F67921D6286CAECF003B07E6 /* BaeMinTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BaeMinTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F67921D6286CAECF003B07E6 /* CloneCoding_BaeMin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CloneCoding_BaeMin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F67921D9286CAECF003B07E6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F67921DB286CAECF003B07E6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		F67921DD286CAECF003B07E6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,7 +60,7 @@
 		F67921CD286CAECF003B07E6 = {
 			isa = PBXGroup;
 			children = (
-				F67921D8286CAECF003B07E6 /* BaeMinTest */,
+				F67921D8286CAECF003B07E6 /* CloneCoding_BaeMin */,
 				F67921D7286CAECF003B07E6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -68,12 +68,12 @@
 		F67921D7286CAECF003B07E6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F67921D6286CAECF003B07E6 /* BaeMinTest.app */,
+				F67921D6286CAECF003B07E6 /* CloneCoding_BaeMin.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F67921D8286CAECF003B07E6 /* BaeMinTest */ = {
+		F67921D8286CAECF003B07E6 /* CloneCoding_BaeMin */ = {
 			isa = PBXGroup;
 			children = (
 				F67921D9286CAECF003B07E6 /* AppDelegate.swift */,
@@ -85,7 +85,7 @@
 				F67921E7286CAED4003B07E6 /* Info.plist */,
 				F6792203286CBFE5003B07E6 /* Font */,
 			);
-			path = BaeMinTest;
+			path = CloneCoding_BaeMin;
 			sourceTree = "<group>";
 		};
 		F6792203286CBFE5003B07E6 /* Font */ = {
@@ -108,9 +108,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F67921D5286CAECF003B07E6 /* BaeMinTest */ = {
+		F67921D5286CAECF003B07E6 /* CloneCoding_BaeMin */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F67921EA286CAED4003B07E6 /* Build configuration list for PBXNativeTarget "BaeMinTest" */;
+			buildConfigurationList = F67921EA286CAED4003B07E6 /* Build configuration list for PBXNativeTarget "CloneCoding_BaeMin" */;
 			buildPhases = (
 				F67921D2286CAECF003B07E6 /* Sources */,
 				F67921D3286CAECF003B07E6 /* Frameworks */,
@@ -120,9 +120,9 @@
 			);
 			dependencies = (
 			);
-			name = BaeMinTest;
+			name = CloneCoding_BaeMin;
 			productName = baminTest;
-			productReference = F67921D6286CAECF003B07E6 /* BaeMinTest.app */;
+			productReference = F67921D6286CAECF003B07E6 /* CloneCoding_BaeMin.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -140,7 +140,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F67921D1286CAECF003B07E6 /* Build configuration list for PBXProject "BaeMinTest" */;
+			buildConfigurationList = F67921D1286CAECF003B07E6 /* Build configuration list for PBXProject "CloneCoding_BaeMin" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -153,7 +153,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F67921D5286CAECF003B07E6 /* BaeMinTest */,
+				F67921D5286CAECF003B07E6 /* CloneCoding_BaeMin */,
 			);
 		};
 /* End PBXProject section */
@@ -336,7 +336,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = BaeMinTest/Info.plist;
+				INFOPLIST_FILE = CloneCoding_BaeMin/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -348,7 +348,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.hanle.BaeMinTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hanle.CloneCoding_BaeMin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -364,7 +364,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = BaeMinTest/Info.plist;
+				INFOPLIST_FILE = CloneCoding_BaeMin/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -376,7 +376,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.hanle.BaeMinTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hanle.CloneCoding_BaeMin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -387,7 +387,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F67921D1286CAECF003B07E6 /* Build configuration list for PBXProject "BaeMinTest" */ = {
+		F67921D1286CAECF003B07E6 /* Build configuration list for PBXProject "CloneCoding_BaeMin" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F67921E8286CAED4003B07E6 /* Debug */,
@@ -396,7 +396,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F67921EA286CAED4003B07E6 /* Build configuration list for PBXNativeTarget "BaeMinTest" */ = {
+		F67921EA286CAED4003B07E6 /* Build configuration list for PBXNativeTarget "CloneCoding_BaeMin" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F67921EB286CAED4003B07E6 /* Debug */,
